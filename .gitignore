@@ -162,3 +162,4 @@ cython_debug/
 include
 Scripts
 pyvenv.cfg
+.pytest_cache
