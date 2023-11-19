@@ -1,0 +1,6 @@
+database:
+  type: sqlite
+  uri: project.db
+volume:
+  type: local
+  path: ./store

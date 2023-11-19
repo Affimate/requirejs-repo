@@ -163,3 +163,5 @@ include
 Scripts
 pyvenv.cfg
 .pytest_cache
+store
+.vscode
